@@ -28,3 +28,10 @@ ORDER BY date;
 - Data exploration
 - Analytical reasoning
 - Data-driven insights
+
+
+## Tools Used
+- SQL
+- Git / GitHub
+- Data aggregation
+- Exploratory data analysis
